@@ -2,6 +2,7 @@
 *.a
 stratum/stratum
 stratum/blocknotify
+stratum/iniparser/libiniparser.so.0
 blocknotify/blocknotify
 blocknotify-dcr/blocknotify-dcr
 bin/stratum
